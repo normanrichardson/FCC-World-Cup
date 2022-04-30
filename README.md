@@ -11,7 +11,7 @@ I have extended this project in the following ways:
 Clone the Repository
 
 ```
-$ git clone 
+$ git clone git@github.com:normanrichardson/FCC-World-Cup.git
 $ cd FCC-World-Cup
 ```
 ### Running postgres with Docker:
